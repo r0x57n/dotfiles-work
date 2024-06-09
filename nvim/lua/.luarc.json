@@ -1,0 +1,31 @@
+{
+    "workspace.library": [
+        "/home/re/.config/nvim",
+        "/etc/xdg/nvim",
+        "/home/re/.local/share/nvim/site",
+        "/home/re/.local/share/nvim/site/pack/packer/start/auto-session",
+        "/home/re/.local/share/nvim/site/pack/packer/start/github-nvim-theme",
+        "/home/re/.local/share/nvim/site/pack/packer/start/lualine.nvim",
+        "/home/re/.local/share/nvim/site/pack/packer/start/neo-tree.nvim",
+        "/home/re/.local/share/nvim/site/pack/packer/start/nui.nvim",
+        "/home/re/.local/share/nvim/site/pack/packer/start/nvim-bufdel",
+        "/home/re/.local/share/nvim/site/pack/packer/start/nvim-highlight-colors",
+        "/home/re/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
+        "/home/re/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
+        "/home/re/.local/share/nvim/site/pack/packer/start/nvim-web-devicons",
+        "/home/re/.local/share/nvim/site/pack/packer/start/plenary.nvim",
+        "/home/re/.local/share/nvim/site/pack/packer/start/session-lens",
+        "/home/re/.local/share/nvim/site/pack/packer/start/telescope-file-browser.nvim",
+        "/home/re/.local/share/nvim/site/pack/packer/start/telescope-fzf-native.nvim",
+        "/home/re/.local/share/nvim/site/pack/packer/start/telescope.nvim",
+        "/home/re/.local/share/nvim/site/pack/packer/start/tmux.nvim",
+        "/home/re/.local/share/nvim/site/pack/packer/start/which-key.nvim",
+        "/usr/share/nvim/site",
+        "/usr/share/nvim/site/pack/packer/start/packer.nvim",
+        "/usr/share/nvim/runtime",
+        "/usr/share/nvim/runtime/pack/dist/opt/matchit",
+        "/usr/lib/nvim",
+        "/usr/share/vim/vimfiles",
+        "${3rd}/luassert/library"
+    ]
+}
